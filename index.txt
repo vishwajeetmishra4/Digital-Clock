@@ -1,0 +1,16 @@
+Digital Clock
+
+#clock
+
+The time is Now
+
+#time
+
+	#hour
+		Hours
+	#minutes
+		Minutes
+	#seconds
+		Seconds
+	#ampm
+		
